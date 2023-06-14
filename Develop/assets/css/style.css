@@ -87,7 +87,7 @@ p {
 }
 
 /* consolidate */
-.benefit-lead {
+.benefit-item {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -103,7 +103,7 @@ p {
 }
 
 /* consolidate */
-.benefit-lead h3 {
+.benefit-item h3 {
     margin-bottom: 10px;
     text-align: center;
 }
@@ -119,7 +119,7 @@ p {
 }
 
 /* consolidate */
-.benefit-lead img {
+.benefit-item img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
