@@ -22,4 +22,7 @@ Click on the top menu to navigate to different sections of the webpage.
 ![alt text](assets/images/Horiseon_screenshot_2.png)
 ![alt text](assets/images/Horiseon_screenshot_3.png)
 
+## Original Code Source
+[Original Code Repo](https://github.com/coding-boot-camp/urban-octo-telegram)
+
 
