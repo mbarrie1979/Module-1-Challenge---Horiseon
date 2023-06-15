@@ -14,7 +14,7 @@ This was also a great opportunity to explore what CSS does by altering different
 
 
 ## Usage
-[Click here for website](https://mbarrie1979.github.io/Module-1-Challenge---Horiseon/)
+[Click here for website](https://mbarrie1979.github.io/Module-1-Challenge-Horiseon/)
 
 Click on the top menu to navigate to different sections of the webpage. 
 
