@@ -136,6 +136,20 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+ 
+@media (max-width: 768px) {
+   body {
+  color: #333;
+  background-color: #fff;
+}
+
+ 
+a {
+  color: #007bff;
+  background-color: #fff;
+}
+
+}
 
 
 
